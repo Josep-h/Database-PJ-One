@@ -1,8 +1,10 @@
 # Database-PJ-One
 
-Here we will list some link for convenience.
+Here we will list some links for convenience.
 
 ## Django
+
+[Django Web 框架 (python)](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django)
 
 [如何在 Windows 上安装 Django](https://docs.djangoproject.com/zh-hans/2.1/howto/windows/)
 
