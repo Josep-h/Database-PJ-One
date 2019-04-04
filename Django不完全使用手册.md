@@ -146,7 +146,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-载入![这个链接](http://127.0.0.1:8000/admin/)以查看管理员账号。
+载入[这个链接](http://127.0.0.1:8000/admin/)以查看管理员账号。
 
 ## 重要！载入管理功能
 
